@@ -6,7 +6,7 @@ Oiie, prazer, sou a Tyna! 🦋
 🌈 Tentando melhorar a cada dia...
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tynaaaa&show_icons=true&theme=monokai&locale=pt-br&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tynaaaa&show_icons=true&theme=monokai&locale=pt-br&hide_title=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact%&theme=monokai)
 ##
 
