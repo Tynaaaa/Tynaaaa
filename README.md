@@ -8,3 +8,10 @@ Oiie, prazer, sou a Tyna! 🦋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tynaaaa&show_icons=true&theme=monokai&locale=pt-br&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact%&theme=monokai)
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tynaaaa/Tynaaaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tynaaaa/Tynaaaa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tynaaaa/Tynaaaa/output/github-contribution-grid-snake.svg">
+</picture>
